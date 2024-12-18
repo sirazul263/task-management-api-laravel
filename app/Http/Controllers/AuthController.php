@@ -32,6 +32,8 @@ class AuthController extends Controller
        ], 200);
    }
 
+
+   
     // Log in a user and generate a token
     public function login(Request $request)
     {
