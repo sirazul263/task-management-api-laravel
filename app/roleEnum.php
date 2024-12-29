@@ -2,8 +2,8 @@
 
 namespace App;
 
-enum roleEnum :string
+enum roleEnum: string
 {
     case ADMIN = 'ADMIN';
     case USER = 'USER';
-} 
+}
